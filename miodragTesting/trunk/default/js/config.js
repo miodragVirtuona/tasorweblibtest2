@@ -1,0 +1,14 @@
+var APP = {
+	FU_URI: "",
+	EXISTING_LANGUAGES : ["en"],
+	LANGUAGE_RESOURCES: {
+		"en": "??APP_TYPE_WDS_URI/en.json"
+	},
+	DEFAULT_LANGUAGE : "en",
+	APP_TYPE_PROJ : "??PRJ_APP_TYPE",
+	APP_KB_PROJ : "??PRJ_APP_KB",
+	APP_ONTOS_PROJ : "??PRJ_APP_ONTOS",
+	APP_KB_WDS: "??PRJ_APP_KB_WDS",
+    APP_KB_DELETE_DS: "??PRJ_APP_KB_WDS_deletedResources",
+	EXT_LINKS : {},
+};
